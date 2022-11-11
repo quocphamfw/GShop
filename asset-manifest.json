@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gshop/static/css/main.056d39e6.css",
+    "main.js": "/gshop/static/js/main.8d3044d5.js",
+    "static/media/logoG.png": "/gshop/static/media/logoG.828d3d8f547d1791a9e5.png",
+    "static/media/Gcart.png": "/gshop/static/media/Gcart.0edb59010b1db3cbc904.png",
+    "index.html": "/gshop/index.html",
+    "main.056d39e6.css.map": "/gshop/static/css/main.056d39e6.css.map",
+    "main.8d3044d5.js.map": "/gshop/static/js/main.8d3044d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.056d39e6.css",
+    "static/js/main.8d3044d5.js"
+  ]
+}
